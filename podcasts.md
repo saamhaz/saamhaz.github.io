@@ -6,4 +6,6 @@ The Pomp Podcast, 2020: [The Future of Crypto Outside the US](https://anthonypom
 
 Unconfirmed, 2019: [How We're Misusing The Word "Decentralization"](https://unconfirmed.libsyn.com/how-were-misusing-the-word-decentralization-ep041)
 
+The Token Daily, 2019: [Season 1](https://podcasts.apple.com/us/podcast/the-token-daily/id1451135743)
+
 <video controls preload><source src="assets/img/CBTalk.mp4" type="video/mp4"></video>
