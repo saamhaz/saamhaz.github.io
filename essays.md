@@ -9,3 +9,5 @@ Essays
 [2020 Crypto Crystal Ball](https://www.tokendaily.co/blog/2020-crypto-crystal-ball) 
 
 [2019 Crypto Crystal Ball](https://www.tokendaily.co/blog/the-2019-crypto-crystal-ball)
+
+<iframe src="https://www.youtube.com/embed/RGvvyA1zuus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
