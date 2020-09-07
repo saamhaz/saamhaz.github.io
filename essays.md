@@ -13,4 +13,4 @@ Essays
 <br>
 
 <div class="outerdiv"><div class="innerdiv"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/h8SdNpRnB-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
-*<p align="center"> <sub><sup>Fireside chat with Lightning Labs CEO Elizabeth Stark and Volt Capital GP Soona Amhaz*
+<p align="center"> <sub><sup>Fireside chat with Lightning Labs CEO Elizabeth Stark and Volt Capital GP Soona Amhaz
