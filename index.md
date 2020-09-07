@@ -1,6 +1,6 @@
 Features
 ========
-Coindesk, 2020: [Trading Firms look to DeFi with New Alliance](www.coindesk.com/chicagos-trading-firms-look-to-defi-with-new-alliance)
+Coindesk, 2020: [Trading Firms look to DeFi with New Alliance](https://www.coindesk.com/chicagos-trading-firms-look-to-defi-with-new-alliance)
 
 Techcrunch, 2020: [Decentralized Identity Management platform Magic launches from stealth](https://techcrunch.com/2020/06/03/decentralized-identity-management-platform-magic-launches-from-stealth-with-4m/)
 
