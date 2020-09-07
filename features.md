@@ -1,12 +1,14 @@
 Features
 ========
-Coindesk, 2020: [Trading Firms look to DeFi with New Alliance](https://www.coindesk.com/chicagos-trading-firms-look-to-defi-with-new-alliance)
+Coindesk, 2020: [Trading Firms Look to DeFi with New Alliance](https://www.coindesk.com/chicagos-trading-firms-look-to-defi-with-new-alliance)
 
-Techcrunch, 2020: [Magic launches from stealth](https://techcrunch.com/2020/06/03/decentralized-identity-management-platform-magic-launches-from-stealth-with-4m/)
+Techcrunch, 2020: [Magic Launches From Stealth](https://techcrunch.com/2020/06/03/decentralized-identity-management-platform-magic-launches-from-stealth-with-4m/)
+
+Coindesk, 2020: [Cozy Debuts With $2M Funding Round](https://www.coindesk.com/defi-risk-management-startup-cozy-finance-debuts-with-2m-funding-round)
 
 SXSW, 2019: [State of Crypto Panel](https://schedule.sxsw.com/2019/speakers/2004385)
 
-Andreessen Horowitz, 2018: [Crypto Canon - Token Daily newsletter](https://a16z.com/2018/02/10/crypto-readings-resources/)
+Andreessen Horowitz, 2018: [Crypto Canon - Token Daily](https://a16z.com/2018/02/10/crypto-readings-resources/)
 
 Coinbase Blog, 2019: [Women & Crypto Report](https://blog.coinbase.com/coinbase-reports-women-crypto-ab030d19ce11)
 
