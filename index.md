@@ -14,7 +14,8 @@ Slush, 2019: [Lightning Labs CEO Elizabeth Stark & Volt Capital](https://www.you
 
 BNC, 2020: [The Inquisitive VC](https://bravenewcoin.com/insights/the-inquisitive-vc-soona-amhaz-general-partner-at-volt-capital)
 
-  
+![Coinbase Angels](assets/img/CBAngels.png)
+
 Podcasts
 ========
 Unchained, 2020: [Why Africa Is Poised to Be the Next Hub for Crypto](https://unchainedpodcast.com/why-africa-is-poised-to-be-the-next-hub-for-crypto-development/)
