@@ -8,4 +8,4 @@ Unconfirmed, 2019: [How We're Misusing The Word "Decentralization"](https://unco
 
 The Token Daily, 2019: [Season 1](https://podcasts.apple.com/us/podcast/the-token-daily/id1451135743)
 
-<video controls preload><source src="assets/img/CBTalk.mp4" type="video/mp4"></video>
+<div class="outerdiv"><div class="innerdiv"><video width="100%" height="100%" controls preload><source src="assets/img/CBTalk.mp4" type="video/mp4"></video></div></div>
