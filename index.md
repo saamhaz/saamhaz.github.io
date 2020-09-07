@@ -10,7 +10,7 @@ Andreessen Horowitz, 2018: [Crypto Canon - Token Daily newsletter](https://a16z.
 
 Coinbase Blog, 2019: [Women & Crypto](https://blog.coinbase.com/coinbase-reports-women-crypto-ab030d19ce11)
 
-Slush, 2019: [Lightning Labs CEO Elizabeth Stark & Volt Capital's Soona Amhaz](https://www.youtube.com/watch?v=h8SdNpRnB-o)
+Slush, 2019: [Lightning Labs CEO Elizabeth Stark & Volt Capital](https://www.youtube.com/watch?v=h8SdNpRnB-o)
 
 BNC, 2020: [The Inquisitive VC](https://bravenewcoin.com/insights/the-inquisitive-vc-soona-amhaz-general-partner-at-volt-capital)
 
