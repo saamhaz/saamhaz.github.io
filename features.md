@@ -16,4 +16,8 @@ Slush, 2019: [Lightning Labs CEO Elizabeth Stark & Volt Capital](https://www.you
 
 BNC, 2020: [The Inquisitive VC](https://bravenewcoin.com/insights/the-inquisitive-vc-soona-amhaz-general-partner-at-volt-capital)
 
-![Coinbase Angels](assets/img/CBAngels.jpg)
+
+**State of Crypto Panel**
+
+![Coinbase Angels](assets/img/CBAngels.png)
+<sub><sup>Featuring Volt GP Soona Amhaz, GV GP Jessica Verrilli, Moxxie Ventures GP Katie Jacobs Stanton, and Iron Fish CEO Elena Nadolinski</sub></sup>
