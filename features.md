@@ -19,4 +19,4 @@ BNC, 2020: [The Inquisitive VC](https://bravenewcoin.com/insights/the-inquisitiv
 
 
 ![Coinbase Angels](assets/img/CBAngels.png)
-<sub><sup> State of Crypto Panel with Volt GP Soona Amhaz, GV GP Jessica Verrilli, & Moxxie Ventures GP Katie Jacobs Stanton.
+*<sub><sup> State of Crypto Panel with Volt GP Soona Amhaz, GV GP Jessica Verrilli, & Moxxie Ventures GP Katie Jacobs Stanton.*
