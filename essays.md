@@ -9,5 +9,7 @@ Essays
 [2020 Crypto Crystal Ball](https://www.tokendaily.co/blog/2020-crypto-crystal-ball) 
 
 [2019 Crypto Crystal Ball](https://www.tokendaily.co/blog/the-2019-crypto-crystal-ball)
+<br> <p></p>
 
 <div class="outerdiv"><div class="innerdiv"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/h8SdNpRnB-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
+<sub><sup> *Watch the full [Coinbase campaign here](https://www.youtube.com/watch?v=21-SQN5ZfM0).*
