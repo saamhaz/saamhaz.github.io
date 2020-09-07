@@ -34,6 +34,10 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
+header h1 {
+  text-align:center;
+}
+
 a {
   color:#267CB9;
   text-decoration:none;
@@ -108,6 +112,13 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+header img {
+  width:70%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 ul.downloads {
