@@ -2,6 +2,8 @@ Podcasts
 ========
 Unchained, 2020: [Why Africa Is Poised to Be the Next Hub for Crypto](https://unchainedpodcast.com/why-africa-is-poised-to-be-the-next-hub-for-crypto-development/)
 
-Pomp Podcast, 2020: [The Future of Crypto Outside the US](https://anthonypompliano.com/pomp-podcast/317-soona-amhaz-on-the-future-of-crypto-outside-the-us/)
+The Pomp Podcast, 2020: [The Future of Crypto Outside the US](https://anthonypompliano.com/pomp-podcast/317-soona-amhaz-on-the-future-of-crypto-outside-the-us/)
+
+Unconfirmed, 2019: [How We're Misusing The Word "Decentralization"](https://unconfirmed.libsyn.com/how-were-misusing-the-word-decentralization-ep041)
 
 <video controls preload><source src="assets/img/CBTalk.mp4" type="video/mp4"></video>
