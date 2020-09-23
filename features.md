@@ -12,6 +12,8 @@ Andreessen Horowitz, 2018: [Crypto Canon - Token Daily](https://a16z.com/2018/02
 
 Coinbase Blog, 2019: [Women & Crypto Report](https://blog.coinbase.com/coinbase-reports-women-crypto-ab030d19ce11)
 
+Andreessen Horowitz, 2020: [Crypto Startup School](https://a16z.com/2019/12/11/announcing-crypto-startup-school-instructors/">the Andreessen Horowitz crypto startup school) 
+
 Slush, 2019: [Lightning Labs CEO Elizabeth Stark & Volt Capital](https://www.youtube.com/watch?v=h8SdNpRnB-o)
 
 BNC, 2020: [The Inquisitive VC](https://bravenewcoin.com/insights/the-inquisitive-vc-soona-amhaz-general-partner-at-volt-capital)
