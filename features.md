@@ -1,6 +1,6 @@
 Features
 ========
-Forbes, 2020: [30 Under 30 in Venture Capital](https://www.forbes.com/profile/soona-amhaz/)
+Forbes, 2021: [30 Under 30 in Venture Capital](https://www.forbes.com/profile/soona-amhaz/)
 
 Coindesk, 2020: [Trading Firms Look to DeFi with New Alliance](https://www.coindesk.com/chicagos-trading-firms-look-to-defi-with-new-alliance)
 
