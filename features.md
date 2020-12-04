@@ -1,5 +1,7 @@
 Features
 ========
+Forbes, 2020: [30 Under 30 in Venture Capital](https://www.forbes.com/profile/soona-amhaz/)
+
 Coindesk, 2020: [Trading Firms Look to DeFi with New Alliance](https://www.coindesk.com/chicagos-trading-firms-look-to-defi-with-new-alliance)
 
 Techcrunch, 2020: [Magic Launches From Stealth](https://techcrunch.com/2020/06/03/decentralized-identity-management-platform-magic-launches-from-stealth-with-4m/)
