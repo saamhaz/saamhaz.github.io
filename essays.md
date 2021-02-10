@@ -6,6 +6,8 @@ Essays
 
 [What Happens to Bitcoin During a Financial Crisis?](https://www.tokendaily.co/blog/what-happens-to-bitcoin-in-financial-crisis)
 
+[2021 Crypto Crystal Ball](https://medium.com/tokendaily/the-2021-crypto-crystal-ball-fac70de8aac3)
+
 [2020 Crypto Crystal Ball](https://www.tokendaily.co/blog/2020-crypto-crystal-ball) 
 
 [2019 Crypto Crystal Ball](https://www.tokendaily.co/blog/the-2019-crypto-crystal-ball)
