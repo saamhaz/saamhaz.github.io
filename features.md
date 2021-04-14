@@ -1,5 +1,7 @@
 Features
 ========
+CNBC, 2021: [More Crypto Companies to Come, says Soona Amhaz of Coinbase's Direct Listing](https://www.cnbc.com/video/2021/04/13/more-crypto-companies-to-come-says-soona-amhaz-of-coinbases-direct-listing.html) 
+
 TechCrunch, 2021: [Meet the Entrepreneurs Bringing Bitcoin to Institutions](https://techcrunch.com/2021/02/09/meet-the-entrepreneurs-bringing-bitcoin-to-institutions/)
 
 Forbes, 2021: [30 Under 30 in Venture Capital](https://www.forbes.com/profile/soona-amhaz/)
