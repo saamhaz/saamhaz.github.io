@@ -22,7 +22,6 @@ Andreessen Horowitz, 2020: [Crypto Startup School](https://a16z.com/2019/12/11/a
 
 Slush, 2019: [Lightning Labs CEO Elizabeth Stark & Volt Capital](https://www.youtube.com/watch?v=h8SdNpRnB-o)
 
-BNC, 2020: [The Inquisitive VC](https://bravenewcoin.com/insights/the-inquisitive-vc-soona-amhaz-general-partner-at-volt-capital)
 
 <br>
 <p> </p>
