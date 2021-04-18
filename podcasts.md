@@ -10,5 +10,7 @@ The Token Daily, 2019: [Season 1](https://podcasts.apple.com/us/podcast/the-toke
 
 <br>
 
-<div class="outerdiv"><div class="innerdiv"><video width="100%" height="100%" controls preload><source src="assets/img/CBTalk.mp4" type="video/mp4"></video></div></div>
-<p align="center"><sub><sup>Watch the full <a href="https://www.youtube.com/watch?v=21-SQN5ZfM0">Coinbase campaign here</a></sup></sub></p>
+
+
+<div class="outerdiv"><div class="innerdiv"><iframe width="100%" height="100%" src="https://www.youtube.com/watch?v=tsQF_QstyQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
+<p align="center"> <sub><sup>More crypto companies to come: Soona Amhaz of Coinbase's direct listing
