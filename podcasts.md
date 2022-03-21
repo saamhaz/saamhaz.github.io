@@ -12,5 +12,5 @@ The Token Daily, 2019: [Season 1](https://podcasts.apple.com/us/podcast/the-toke
 
 <br>
 
-<div class="outerdiv"><div class="innerdiv"><iframe width="100%" height="100%" src="https://www.youtube.com/watch?v=eWjrFs7_Lwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
+<div class="outerdiv"><div class="innerdiv"><iframe width="100%" height="100%" src="www.youtube.com/watch?v=eWjrFs7_Lwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
 <p align="center"> <sub><sup>Soona Amhaz: Bitcoin is undergoing a healthy correction.
