@@ -14,8 +14,6 @@ Forbes, 2021: [30 Under 30 in Venture Capital](https://www.forbes.com/profile/so
 
 TechCrunch, 2020: [Magic Launches From Stealth](https://techcrunch.com/2020/06/03/decentralized-identity-management-platform-magic-launches-from-stealth-with-4m/)
 
-Coindesk, 2020: [Cozy Debuts With $2M Funding Round](https://www.coindesk.com/defi-risk-management-startup-cozy-finance-debuts-with-2m-funding-round)
-
 TechCrunch, 2021: [Meet the Entrepreneurs Bringing Bitcoin to Institutions](https://techcrunch.com/2021/02/09/meet-the-entrepreneurs-bringing-bitcoin-to-institutions/)
 
 SXSW, 2019: [State of Crypto Panel](https://schedule.sxsw.com/2019/speakers/2004385)
