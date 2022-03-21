@@ -1,6 +1,6 @@
 Podcasts
 ========
-Carta, 2021: [The First Close](https://carta.com/blog/the-first-close-volt-capital/) 
+Carta, 2021: [The First Close: Volt Capital](https://carta.com/blog/the-first-close-volt-capital/) 
 
 Unchained, 2020: [Why Africa Is Poised to Be the Next Hub for Crypto](https://unchainedpodcast.com/why-africa-is-poised-to-be-the-next-hub-for-crypto-development/)
 
