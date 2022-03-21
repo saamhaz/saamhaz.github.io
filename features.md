@@ -1,5 +1,9 @@
 Features
 ========
+WSJ, 2021: [Crypto Venture Funds Look for an Edge in a Crowded Market](https://www.wsj.com/articles/crypto-venture-funds-look-for-an-edge-in-a-crowded-market-11639396803?st=kbziskahvc9ttq8&reflink=share_mobilewebshare)
+
+Alliance, 2021 Fireside Chat: [Balaji Srinivasan & Soona Amhaz](https://www.youtube.com/watch?v=cPQpG5vDp5M)
+
 WSJ, 2021: [Volt Capital Expects Resurgence of Equity Deals in Crypto](https://www.wsj.com/articles/new-venture-firm-expects-resurgence-of-equity-deals-in-crypto-11619607627)
 
 Bloomberg, 2021: [Soona Amhaz: Focusing on Crypto Equity Companies](https://www.bloomberg.com/news/videos/2021-04-28/focusing-investments-on-crypto-equity-companies-soona-amhaz-video)
@@ -19,8 +23,6 @@ SXSW, 2019: [State of Crypto Panel](https://schedule.sxsw.com/2019/speakers/2004
 Axios, 2021: [Volt Capital Raises $10 million to Back Early-Stage Crypto Startups](https://www.axios.com/volt-capital-crypto-startups-8899d0df-b11f-45a0-bbdd-2f4b2b4c46a2.html)
 
 Andreessen Horowitz, 2020: [Crypto Startup School](https://a16z.com/2019/12/11/announcing-crypto-startup-school-instructors/)
-
-Slush, 2019: [Lightning Labs CEO Elizabeth Stark & Volt Capital](https://www.youtube.com/watch?v=h8SdNpRnB-o)
 
 Andreessen Horowitz, 2018: [Crypto Canon - Token Daily](https://a16z.com/2018/02/10/crypto-readings-resources/)
 
