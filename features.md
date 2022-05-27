@@ -1,5 +1,7 @@
 Features
 ========
+TechCrunch, 2022 [Volt Capital Debuts Second $50m Fund](https://techcrunch.com/2022/05/25/volt-capital-debuts-second-50m-fund-backed-by-several-of-cryptos-kingmakers/)
+
 WSJ, 2021: [Crypto Venture Funds Look for an Edge in a Crowded Market](https://www.wsj.com/articles/crypto-venture-funds-look-for-an-edge-in-a-crowded-market-11639396803?st=kbziskahvc9ttq8&reflink=share_mobilewebshare)
 
 Alliance, 2021 Fireside Chat: [Balaji Srinivasan & Soona Amhaz](https://www.youtube.com/watch?v=cPQpG5vDp5M)
