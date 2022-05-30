@@ -18,8 +18,6 @@ CNBC, 2021: [More Crypto Companies to Come, says Soona Amhaz of Coinbase DPO](ht
 
 Forbes, 2021: [30 Under 30 in Venture Capital](https://www.forbes.com/profile/soona-amhaz/)
 
-TechCrunch, 2020: [Magic Launches From Stealth](https://techcrunch.com/2020/06/03/decentralized-identity-management-platform-magic-launches-from-stealth-with-4m/)
-
 TechCrunch, 2021: [Meet the Entrepreneurs Bringing Bitcoin to Institutions](https://techcrunch.com/2021/02/09/meet-the-entrepreneurs-bringing-bitcoin-to-institutions/)
 
 SXSW, 2019: [State of Crypto Panel](https://schedule.sxsw.com/2019/speakers/2004385)
