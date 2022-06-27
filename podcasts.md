@@ -1,6 +1,10 @@
-Podcasts
+Talks
 ========
 Carta, 2021: [The First Close: Volt Capital](https://carta.com/blog/the-first-close-volt-capital/) 
+
+Permissionless, 2022: [Investing in an On-Chain World](https://www.youtube.com/watch?v=YznaruwqOnk) 
+
+Alliance, 2021: [Keynote: Balaji Srinivasan & Soona Amhaz](https://www.youtube.com/watch?v=cPQpG5vDp5M)
 
 Unchained, 2020: [Why Africa Is Poised to Be the Next Hub for Crypto](https://unchainedpodcast.com/why-africa-is-poised-to-be-the-next-hub-for-crypto-development/)
 
