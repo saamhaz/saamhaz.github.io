@@ -8,8 +8,6 @@ Coindesk, 2022: [Soona Amhaz’s Volt Debuts $50M Crypto Fund](https://www.coind
 
 WSJ, 2021: [Crypto Venture Funds Look for an Edge in a Crowded Market](https://www.wsj.com/articles/crypto-venture-funds-look-for-an-edge-in-a-crowded-market-11639396803?st=kbziskahvc9ttq8&reflink=share_mobilewebshare)
 
-Alliance, 2021 Fireside Chat: [Balaji Srinivasan & Soona Amhaz](https://www.youtube.com/watch?v=cPQpG5vDp5M)
-
 WSJ, 2021: [Volt Capital Expects Resurgence of Equity Deals in Crypto](https://www.wsj.com/articles/new-venture-firm-expects-resurgence-of-equity-deals-in-crypto-11619607627)
 
 Bloomberg, 2021: [Soona Amhaz: Focusing on Crypto Equity Companies](https://www.bloomberg.com/news/videos/2021-04-28/focusing-investments-on-crypto-equity-companies-soona-amhaz-video)
