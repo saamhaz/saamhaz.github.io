@@ -12,7 +12,8 @@ Soona Amhaz
 * [Inflationary vs. Deflationary Shocks](https://medium.com/tokendaily/inflationary-vs-deflationary-shocks-5f64bd4e94bb)
 * [Why Bitcoin’s Price Usually Falls During the Halving](https://medium.com/tokendaily/why-bitcoins-price-usually-falls-during-the-halving-8ff31a79abd)
 
-**Angel Investments**\
+**Angel Investments**
+<br>  
 Roboflow, Replit, Varda, Loyal, ZeroMark, Busright, Neon, Spring Science, Atomic Semi, SF Compute Company, etc
 
 **Press**
