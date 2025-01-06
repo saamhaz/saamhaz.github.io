@@ -12,8 +12,7 @@ Soona Amhaz
 * [Inflationary vs. Deflationary Shocks](https://medium.com/tokendaily/inflationary-vs-deflationary-shocks-5f64bd4e94bb)
 * [Why Bitcoin’s Price Usually Falls During the Halving](https://medium.com/tokendaily/why-bitcoins-price-usually-falls-during-the-halving-8ff31a79abd)
 
-**Angel Investments**
-=====
+**Angel Investments**\
 Roboflow, Replit, Varda, Loyal, ZeroMark, Busright, Neon, Spring Science, Atomic Semi, SF Compute Company, etc
 
 **Press**
@@ -26,7 +25,6 @@ Roboflow, Replit, Varda, Loyal, ZeroMark, Busright, Neon, Spring Science, Atomic
 * [TechCrunch](https://techcrunch.com/2021/02/09/meet-the-entrepreneurs-bringing-bitcoin-to-institutions/)
 
 **Contact**
-=====
-I keep my DMs [open on X](https://x.com/soona)
-I [check Linkedin](https://www.linkedin.com/in/amhaz/) once every 6 months
+* I keep my DMs [open on X](https://x.com/soona)
+* I [check Linkedin](https://www.linkedin.com/in/amhaz/) once every 6 months
 
