@@ -1,9 +1,9 @@
 Soona Amhaz
 =====
 **About**
-* Studied biomedical engineering and computers at University of Michigan.
+* Graduated from University of Michigan School of Engineering.
 * Was hire #20 at <a href="https://techcrunch.com/2022/11/02/alation-bags-123m-at-a-1-7b-valuation-for-its-data-cataloging-software/">Alation</a> during the AI dark ages.
-* Founded Token Daily which became <a href="(https://www.notboring.co/p/whats-on-deck-for-on-deck)">On Deck</a>.
+* Founded Token Daily and pivoted it to <a href="(https://www.notboring.co/p/whats-on-deck-for-on-deck/">On Deck</a>.
 * Took my operating chops to venture and started <a href="https://volt.capital/">Volt Capital</a>. 
 
 
@@ -12,6 +12,8 @@ Soona Amhaz
 * [Inflationary vs. Deflationary Shocks](https://medium.com/tokendaily/inflationary-vs-deflationary-shocks-5f64bd4e94bb)
 * [Why Bitcoin’s Price Usually Falls During the Halving](https://medium.com/tokendaily/why-bitcoins-price-usually-falls-during-the-halving-8ff31a79abd)
 
+**Angel Investments**
+Roboflow, Replit, Varda, Loyal, ZeroMark, Busright, Neon, Spring Science, Atomic Semi, SF Compute Company, etc
 
 **Press**
 * [WSJ, 2022](https://www.wsj.com/articles/volt-capital-raises-new-50-million-crypto-fund-11653480001)
