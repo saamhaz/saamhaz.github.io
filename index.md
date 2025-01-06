@@ -2,7 +2,7 @@ Soona Amhaz
 =====
 A brief history:
 * Studied biomedical engineering and computers at University of Michigan.
-* Was hire #20 at Alation during the AI dark ages.
+* Was hire #20 at <a href="https://techcrunch.com/2022/11/02/alation-bags-123m-at-a-1-7b-valuation-for-its-data-cataloging-software/">Alation</a> during the AI dark ages.
 * Founded Token Daily which became <a href="https://www.beondeck.com/">On Deck</a> .
 * Took my operating chops to venture and started <a href="https://volt.capital/">Volt Capital</a> . 
 
