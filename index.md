@@ -7,7 +7,7 @@ Soona Amhaz
 * Took my operating chops to venture and started <a href="https://volt.capital/">Volt Capital</a>. 
 
 
-**Writing**
+**Writing**  
 [Raising Capital as a Pseudonymous Founder](https://soona.mirror.xyz/Or4pMNQKOgmDIrHkbbP0NF5lxXqOh-RNpCRtqeWupGA)  
 [Inflationary vs. Deflationary Shocks](https://medium.com/tokendaily/inflationary-vs-deflationary-shocks-5f64bd4e94bb)  
 [Why Bitcoin’s Price Usually Falls During the Halving](https://medium.com/tokendaily/why-bitcoins-price-usually-falls-during-the-halving-8ff31a79abd)  
