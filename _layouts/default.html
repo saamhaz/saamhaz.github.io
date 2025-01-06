@@ -12,30 +12,7 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-        <p></p>
-        <p><a href="/">About</a></p>
-        <p><a href="features.html">Features</a></p>
-        <p><a href="talks.html">Talks</a></p>
-        <p><a href="essays.html">Essays</a></p>
-
-      </header>
-      <section>
-
-      {{ content }}
-
-      </section>
-      <div class="right"></div>
-      <footer>
-      </footer>
-    </div>
+    {{ content }}
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
