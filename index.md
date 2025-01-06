@@ -6,7 +6,7 @@ A brief history:
 * Founded Token Daily which became <a href="https://www.beondeck.com/">On Deck</a> .
 * Took my operating chops to venture and started <a href="https://volt.capital/">Volt Capital</a> . 
 
-=====
+
 **Writing**
 
 
