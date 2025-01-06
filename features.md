@@ -8,13 +8,9 @@ Coindesk, 2022: [Soona Amhaz’s Volt Debuts $50M Crypto Fund](https://www.coind
 
 WSJ, 2021: [Crypto Venture Funds Look for an Edge in a Crowded Market](https://www.wsj.com/articles/crypto-venture-funds-look-for-an-edge-in-a-crowded-market-11639396803?st=kbziskahvc9ttq8&reflink=share_mobilewebshare)
 
-WSJ, 2021: [Volt Capital Expects Resurgence of Equity Deals in Crypto](https://www.wsj.com/articles/new-venture-firm-expects-resurgence-of-equity-deals-in-crypto-11619607627)
-
 Bloomberg, 2021: [Soona Amhaz: Focusing on Crypto Equity Companies](https://www.bloomberg.com/news/videos/2021-04-28/focusing-investments-on-crypto-equity-companies-soona-amhaz-video)
 
 CNBC, 2021: [More Crypto Companies to Come, says Soona Amhaz of Coinbase DPO](https://www.cnbc.com/video/2021/04/13/more-crypto-companies-to-come-says-soona-amhaz-of-coinbases-direct-listing.html) 
-
-Forbes, 2021: [30 Under 30 in Venture Capital](https://www.forbes.com/profile/soona-amhaz/)
 
 TechCrunch, 2021: [Meet the Entrepreneurs Bringing Bitcoin to Institutions](https://techcrunch.com/2021/02/09/meet-the-entrepreneurs-bringing-bitcoin-to-institutions/)
 
