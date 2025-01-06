@@ -24,7 +24,7 @@ Soona Amhaz
 * [CNBC](https://www.cnbc.com/video/2021/04/13/more-crypto-companies-to-come-says-soona-amhaz-of-coinbases-direct-listing.html)
 * [TechCrunch](https://techcrunch.com/2021/02/09/meet-the-entrepreneurs-bringing-bitcoin-to-institutions/)
 
-**Contact**  
-I keep my DMs [open on X](https://x.com/soona)  
-I [check Linkedin](https://www.linkedin.com/in/amhaz/) once every 6 months
+**Find Me**  
+* I keep my DMs [open on X](https://x.com/soona)  
+* I [check Linkedin](https://www.linkedin.com/in/amhaz/) once every 6 months
 
