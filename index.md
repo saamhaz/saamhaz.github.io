@@ -13,13 +13,20 @@ Soona Amhaz
 * [Why Bitcoin’s Price Usually Falls During the Halving](https://medium.com/tokendaily/why-bitcoins-price-usually-falls-during-the-halving-8ff31a79abd)
 
 **Angel Investments**
+=====
 Roboflow, Replit, Varda, Loyal, ZeroMark, Busright, Neon, Spring Science, Atomic Semi, SF Compute Company, etc
 
 **Press**
-* [WSJ, 2022](https://www.wsj.com/articles/volt-capital-raises-new-50-million-crypto-fund-11653480001)
-* [TechCrunch, 2022](https://techcrunch.com/2022/05/25/volt-capital-debuts-second-50m-fund-backed-by-several-of-cryptos-kingmakers/)
-* [Coindesk, 2022](https://www.coindesk.com/business/2022/05/25/soona-amhazs-volt-debuts-50m-crypto-fund-backed-by-marc-andreessen-chris-dixon/)
-* [WSJ, 2021](https://www.wsj.com/articles/crypto-venture-funds-look-for-an-edge-in-a-crowded-market-11639396803?st=kbziskahvc9ttq8&reflink=share_mobilewebshare)
-* [Bloomberg, 2021](https://www.bloomberg.com/news/videos/2021-04-28/focusing-investments-on-crypto-equity-companies-soona-amhaz-video)
-* [CNBC, 2021](https://www.cnbc.com/video/2021/04/13/more-crypto-companies-to-come-says-soona-amhaz-of-coinbases-direct-listing.html)
-* [TechCrunch, 2021](https://techcrunch.com/2021/02/09/meet-the-entrepreneurs-bringing-bitcoin-to-institutions/)
+* [WSJ](https://www.wsj.com/articles/volt-capital-raises-new-50-million-crypto-fund-11653480001)
+* [TechCrunch](https://techcrunch.com/2022/05/25/volt-capital-debuts-second-50m-fund-backed-by-several-of-cryptos-kingmakers/)
+* [Coindesk](https://www.coindesk.com/business/2022/05/25/soona-amhazs-volt-debuts-50m-crypto-fund-backed-by-marc-andreessen-chris-dixon/)
+* [WSJ](https://www.wsj.com/articles/crypto-venture-funds-look-for-an-edge-in-a-crowded-market-11639396803?st=kbziskahvc9ttq8&reflink=share_mobilewebshare)
+* [Bloomberg](https://www.bloomberg.com/news/videos/2021-04-28/focusing-investments-on-crypto-equity-companies-soona-amhaz-video)
+* [CNBC](https://www.cnbc.com/video/2021/04/13/more-crypto-companies-to-come-says-soona-amhaz-of-coinbases-direct-listing.html)
+* [TechCrunch](https://techcrunch.com/2021/02/09/meet-the-entrepreneurs-bringing-bitcoin-to-institutions/)
+
+**Contact**
+=====
+I keep my DMs [open on X](https://x.com/soona)
+I [check Linkedin](https://www.linkedin.com/in/amhaz/) once every 6 months
+
