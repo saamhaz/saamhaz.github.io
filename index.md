@@ -1,10 +1,10 @@
 Soona Amhaz
 =====
 **About**  
-Graduated from University of Michigan School of Engineering.  
-Was hire #20 at <a href="https://techcrunch.com/2022/11/02/alation-bags-123m-at-a-1-7b-valuation-for-its-data-cataloging-software/">Alation</a> during the AI dark ages.  
-Founded Token Daily and pivoted it to <a href="(https://www.notboring.co/p/whats-on-deck-for-on-deck/">On Deck</a>.  
-Took my operating chops to venture and started <a href="https://volt.capital/">Volt Capital</a>.   
+* Graduated from University of Michigan School of Engineering.  
+* Was hire #20 at <a href="https://techcrunch.com/2022/11/02/alation-bags-123m-at-a-1-7b-valuation-for-its-data-cataloging-software/">Alation</a> during the AI dark ages.  
+* Founded Token Daily and pivoted it to <a href="(https://www.notboring.co/p/whats-on-deck-for-on-deck/">On Deck</a>.  
+* Took my operating chops to venture and started <a href="https://volt.capital/">Volt Capital</a>.   
 
 
 **Writing**  
@@ -13,7 +13,7 @@ Took my operating chops to venture and started <a href="https://volt.capital/">V
 [Why Bitcoin’s Price Usually Falls During the Halving](https://medium.com/tokendaily/why-bitcoins-price-usually-falls-during-the-halving-8ff31a79abd)  
 
 **Angel Investments**  
-Roboflow, Replit, Varda, Loyal, ZeroMark, Busright, Neon, Spring Science, Atomic Semi, SF Compute Company, etc
+* Roboflow, Replit, Varda, Loyal, ZeroMark, Busright, Neon, Spring Science, Atomic Semi, SF Compute Company, etc
 
 **Press**
 * [WSJ](https://www.wsj.com/articles/volt-capital-raises-new-50-million-crypto-fund-11653480001)
