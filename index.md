@@ -13,7 +13,7 @@ Soona Amhaz
 [Why Bitcoin’s Price Usually Falls During the Halving](https://medium.com/tokendaily/why-bitcoins-price-usually-falls-during-the-halving-8ff31a79abd)  
 
 **Angel Investments**  
-* Roboflow, Replit, Varda, Loyal, ZeroMark, Busright, Neon, Spring Science, Atomic Semi, SF Compute Company, etc
+Roboflow, Replit, Varda, Loyal, ZeroMark, Busright, Neon, Spring Science, Atomic Semi, SF Compute Company, etc
 
 **Press**
 * [WSJ](https://www.wsj.com/articles/volt-capital-raises-new-50-million-crypto-fund-11653480001)
