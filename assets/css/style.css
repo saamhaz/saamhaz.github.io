@@ -16,6 +16,10 @@ body {
 	margin-left: 11%;
 }
 
+.post-list p {
+	margin: 0;
+}
+
 figcaption {
 	text-align: center;
 	font-size: 14px;
