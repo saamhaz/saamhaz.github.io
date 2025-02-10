@@ -4,4 +4,20 @@ body {
 	font-size: 16px;
 	max-width: 700px;
 	margin: 0 auto;
-};
+}
+
+.post p img {
+	width: 78%;
+	margin-left: 11%;
+}
+
+.post figure img {
+	width: 78%;
+	margin-left: 11%;
+}
+
+figcaption {
+	text-align: center;
+	font-size: 14px;
+	line-height: 1;
+}
