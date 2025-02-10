@@ -8,13 +8,13 @@ Soona Amhaz
 
 
 **Writing**
+
 [Raising Capital as a Pseudonymous Founder](https://soona.mirror.xyz/Or4pMNQKOgmDIrHkbbP0NF5lxXqOh-RNpCRtqeWupGA)  
-<div class="post-list">
+<p>
 {% for post in site.posts %}
-<a href="{{ post.url }}">{{ post.title }}</a>
+<a href="{{ post.url }}">{{ post.title }}</a><br>
 {% endfor %}
-</div>
-[Why Bitcoin’s Price Usually Falls During the Halving](https://medium.com/tokendaily/why-bitcoins-price-usually-falls-during-the-halving-8ff31a79abd)  
+</p>
 
 **Angel Investments**  
 Roboflow, Replit, Varda, Loyal, ZeroMark, Busright, Neon, Spring Science, Atomic Semi, SF Compute Company, etc
