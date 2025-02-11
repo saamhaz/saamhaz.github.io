@@ -38,8 +38,7 @@ There’s no getting around it. Reputations take time to build. The challenge wi
 ### Hybrid Teams  
 At this point in time, investors are more comfortable investing in **blended teams** with both identified and pseudonymous founders. This helps with KYC processes and doesn’t depart too much from the traditional DD mold. Though this might be a false sense of assurance given that some of the biggest scams both inside and outside of crypto have actually been projects with people’s real identities tied to them (see: Bitconnect, Theranos).
 
-The rise of pseudonymity amongst founding teams is net positive, contrary to the dark dystopia public figureheads might paint it to be.  
-This is probably the closest we’ve ever come as a society to producing a meritocracy. Let’s not screw it up.
+The rise of pseudonymity amongst founding teams is net positive, contrary to the dark dystopia public figureheads might paint it to be. This is probably the closest we’ve ever come as a society to producing a meritocracy. Let’s not screw it up.
 
 
 *If you have more to add to the framework, tweet to [@soona](https://twitter.com/soona) or [@voltcapital](https://twitter.com/voltcapital). Thank you Matt Huang, Code Monkey, Linda Xie, Elad Gil, Michelle Bailhe, Albert Wenger, Qiao Wang, and Sam Hallene for thoughts and feedback.*
