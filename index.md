@@ -8,8 +8,6 @@ Soona Amhaz
 
 
 **Writing**
-
-[Raising Capital as a Pseudonymous Founder](https://soona.mirror.xyz/Or4pMNQKOgmDIrHkbbP0NF5lxXqOh-RNpCRtqeWupGA)  
 <p>
 {% for post in site.posts %}
 <a href="{{ post.url }}">{{ post.title }}</a><br>
