@@ -43,6 +43,7 @@ This is probably the closest we’ve ever come as a society to producing a merit
 
 
 *If you have more to add to the framework, tweet to [@soona](https://twitter.com/soona) or [@voltcapital](https://twitter.com/voltcapital). Thank you Matt Huang, Code Monkey, Linda Xie, Elad Gil, Michelle Bailhe, Albert Wenger, Qiao Wang, and Sam Hallene for thoughts and feedback.*
+
 ---
 <small>\*Assumes team is pre-product and does not want to reveal their identities to investors. However, there are teams that choose to only reveal their identities to stakeholders for legal and financial purposes.</small>
 
