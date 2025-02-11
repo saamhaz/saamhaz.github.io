@@ -8,10 +8,11 @@ Soona Amhaz
 
 
 **Writing**
+<p>
 {% for post in site.posts %}
 <a href="{{ post.url }}">{{ post.title }}</a><br>
 {% endfor %}
-
+</p>
 
 **Angel Investments**  
 Roboflow, Replit, Varda, Loyal, ZeroMark, Busright, Neon, Spring Science, Atomic Semi, SF Compute Company, etc
