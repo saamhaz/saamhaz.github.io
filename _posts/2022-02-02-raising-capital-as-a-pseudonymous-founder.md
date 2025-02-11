@@ -43,13 +43,7 @@ This is probably the closest we’ve ever come as a society to producing a merit
 
 
 *If you have more to add to the framework, tweet to [@soona](https://twitter.com/soona) or [@voltcapital](https://twitter.com/voltcapital). Thank you Matt Huang, Code Monkey, Linda Xie, Elad Gil, Michelle Bailhe, Albert Wenger, Qiao Wang, and Sam Hallene for thoughts and feedback.*
-
-
-<small>\*Short for pseudonym</small>
-
+---
 <small>\*Assumes team is pre-product and does not want to reveal their identities to investors. However, there are teams that choose to only reveal their identities to stakeholders for legal and financial purposes.</small>
 
----
-
-<small>*Disclaimer*</small>
-<small>*The opinions expressed in this article are for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained on our site constitutes a solicitation, recommendation, endorsement, or offer by Volt Capital or any third-party service provider to buy or sell any securities or other financial instruments in this or in any other jurisdiction.All content on this site is information of a general nature and does not address the circumstances of any particular individual or entity. The personal views expressed here do not necessarily reflect the official policy or position of organizations or employers listed above.* </small>
+<small>***Disclaimer***</small><small>*The opinions expressed in this article are for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained on our site constitutes a solicitation, recommendation, endorsement, or offer by Volt Capital or any third-party service provider to buy or sell any securities or other financial instruments in this or in any other jurisdiction.All content on this site is information of a general nature and does not address the circumstances of any particular individual or entity. The personal views expressed here do not necessarily reflect the official policy or position of organizations or employers listed above.* </small>
