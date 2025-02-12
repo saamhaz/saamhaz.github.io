@@ -7,8 +7,8 @@ Soona Amhaz
 * Took my operating chops to venture and started <a href="https://volt.capital/">Volt Capital</a>.   
 
 
-**Writing**
 <p>
+<strong>Writing</strong><br>
 {% for post in site.posts %}
 <a href="{{ post.url }}">{{ post.title }}</a><br>
 {% endfor %}
