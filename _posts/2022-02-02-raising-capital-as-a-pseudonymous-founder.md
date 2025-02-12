@@ -1,3 +1,8 @@
+---
+layout: post
+title: Raising Capital as a Pseudonymous Founder
+---
+
 For many, the term “pseudonymous founder”conjures an image of a shadowy figure fitted with a Guy Fawkes mask. But, if you look at the recent wave of crypto startups, you’ll notice pseudonymity is becoming an ordinary, run-of-the-mill practice. Crypto’s pseudonymous founders typically don’t curate a daunting, ominous presence – in fact, most have colorful profile pictures (pfps) tethered to their identities in the form of primates, Greek gods, anime, and owls with playful names to match: Code Monkey, Zeus, or [Owl of Moistness](https://x.com/OwlOfMoistness).
 
 
