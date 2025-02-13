@@ -20,6 +20,7 @@ Roboflow, Replit, Varda, Loyal, ZeroMark, Busright, Neon, Spring Science, Atomic
 **Press**
 * [WSJ](https://www.wsj.com/articles/volt-capital-raises-new-50-million-crypto-fund-11653480001)
 * [TechCrunch](https://techcrunch.com/2022/05/25/volt-capital-debuts-second-50m-fund-backed-by-several-of-cryptos-kingmakers/)
+* [WSJ](https://www.wsj.com/articles/new-venture-firm-expects-resurgence-of-equity-deals-in-crypto-11619607627)
 * [Coindesk](https://www.coindesk.com/business/2022/05/25/soona-amhazs-volt-debuts-50m-crypto-fund-backed-by-marc-andreessen-chris-dixon/)
 * [WSJ](https://www.wsj.com/articles/crypto-venture-funds-look-for-an-edge-in-a-crowded-market-11639396803?st=kbziskahvc9ttq8&reflink=share_mobilewebshare)
 * [Bloomberg](https://www.bloomberg.com/news/videos/2021-04-28/focusing-investments-on-crypto-equity-companies-soona-amhaz-video)
