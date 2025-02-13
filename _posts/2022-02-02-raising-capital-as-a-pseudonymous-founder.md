@@ -8,9 +8,9 @@ For many, the term “pseudonymous founder”conjures an image of a shadowy figu
 
 ## Going Pseudonymous
 
-Let’s address it from the outset: **pseudonymous does not mean anonymous**. Anonymity – *without a name* in Latin – might be valuable if you’re making a donation and don’t want the credit, but it’s functionally useless when trying to organize a team and procure financing to build a company. The distinction seems almost trivial to mention but it’s critical to understanding the inherent value of pseudonymity.
+Let’s address it from the outset: **pseudonymous does not mean anonymous**. Anonymity – without a name in Latin – might be valuable if you’re making a donation and don’t want the credit, but it’s functionally useless when trying to organize a team and procure financing to build a company. The distinction seems almost trivial to mention but it’s critical to understanding the inherent value of pseudonymity.
 
-A **pseudonymous** (*false name* in Latin) identity can hold equal, if not more, weight to “real” identities for the founders who bear them. Pseudonymous reputations in this space are built over a long period of time and are stripped of conventional signals we lean on to establish credibility: elite colleges, top-tier companies, and other proxies. Instead, resources are poured into producing work that can be evaluated objectively for its intrinsic worth.
+A **pseudonymous** – false name in Latin – identity can hold equal, if not more, weight to “real” identities for the founders who bear them. Pseudonymous reputations in this space are built over a long period of time and are stripped of conventional signals we lean on to establish credibility: elite colleges, top-tier companies, and other proxies. Instead, resources are poured into producing work that can be evaluated objectively for its intrinsic worth.
 
 ## What to Expect as a Nym
 
