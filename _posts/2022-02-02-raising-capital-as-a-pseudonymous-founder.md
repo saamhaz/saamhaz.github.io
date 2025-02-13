@@ -8,9 +8,9 @@ For many, the term “pseudonymous founder”conjures an image of a shadowy figu
 
 ## Going Pseudonymous
 
-Let’s address it from the outset: **pseudonymous does not mean anonymous**. Anonymity – without a name in Latin – might be valuable if you’re making a donation and don’t want the credit, but it’s functionally useless when trying to organize a team and procure financing to build a company. The distinction seems almost trivial to mention but it’s critical to understanding the inherent value of pseudonymity.
+Let’s address it from the outset: pseudonymous does not mean anonymous. Anonymity – without a name in Latin – might be valuable if you’re making a donation and don’t want the credit, but it’s functionally useless when trying to organize a team and procure financing to build a company. The distinction seems almost trivial to mention but it’s critical to understanding the inherent value of pseudonymity.
 
-A **pseudonymous** – false name in Latin – identity can hold equal, if not more, weight to “real” identities for the founders who bear them. Pseudonymous reputations in this space are built over a long period of time and are stripped of conventional signals we lean on to establish credibility: elite colleges, top-tier companies, and other proxies. Instead, resources are poured into producing work that can be evaluated objectively for its intrinsic worth.
+A pseudonymous – false name in Latin – identity can hold equal, if not more, weight to “real” identities for the founders who bear them. Pseudonymous reputations in this space are built over a long period of time and are stripped of conventional signals we lean on to establish credibility: elite colleges, top-tier companies, and other proxies. Instead, resources are poured into producing work that can be evaluated objectively for its intrinsic worth.
 
 ## What to Expect as a Nym
 
@@ -41,7 +41,7 @@ Instead of asking for work references, investors will ping other users in Discor
 There’s no getting around it. Reputations take time to build. The challenge with going the pseudonymous route is the forfeit of all prior projects, GitHub commits, etc., under the founder’s “true identity” and a reputation reset to zero. The longer a reputable history under a nym is, the more de-risked the investment becomes in an investor’s eyes. However, this doesn’t entirely neutralize rug risk – if the prize is big enough, a long history/reputation may not mean much to the nym.
 
 ### Hybrid Teams  
-At this point in time, investors are more comfortable investing in **blended teams** with both identified and pseudonymous founders. This helps with KYC processes and doesn’t depart too much from the traditional DD mold. Though this might be a false sense of assurance given that some of the biggest scams both inside and outside of crypto have actually been projects with people’s real identities tied to them (see: Bitconnect, Theranos).
+At this point in time, investors are more comfortable investing in blended teams with both identified and pseudonymous founders. This helps with KYC processes and doesn’t depart too much from the traditional DD mold. Though this might be a false sense of assurance given that some of the biggest scams both inside and outside of crypto have actually been projects with people’s real identities tied to them (see: Bitconnect, Theranos).
 
 The rise of pseudonymity amongst founding teams is net positive, contrary to the dark dystopia public figureheads might paint it to be. This is probably the closest we’ve ever come as a society to producing a meritocracy. Let’s not screw it up.
 
