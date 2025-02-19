@@ -63,6 +63,8 @@ Embodiment is not only essential for interacting with the physical world but als
 
 Across **artificial intelligence, crypto, and physical world platforms**, there are areas where these different frontiers are mutually enabling, unlocking applications or domains via their intersections. 
 
+![The Intersections of Ai, Physical, and Crypto](/assets/img/robo-economicus-frontiers.png)
+
 ### AI x Crypto
 
 - **Agentic Networks** – AI agents participating in financial markets and decentralized marketplaces.
