@@ -21,7 +21,7 @@ Each tech epoch is born from and defined by a combinatorial platform shift. What
 
 ## Robo Economicus
 
-The three emerging frontiers in computing today are artificial intelligence, crypto, and the platforms enabling applications that read-write to the physical world. An interesting point towards which these three frontiers converge is in giving AI agents the ability to perform in domains that today are largely the purview of humans. In a sense, the convergence of AI, crypto, and physical world platforms allows agents to extend the breadth of their capabilities into new domains.
+The three emerging frontiers in computing today are artificial intelligence, crypto, and the platforms enabling applications that read-write to the physical world.<sup>1</sup> An interesting point towards which these three frontiers converge is in giving AI agents the ability to perform in domains that today are largely the purview of humans. In a sense, the convergence of AI, crypto, and physical world platforms allows agents to extend the breadth of their capabilities into new domains.
 
 Today, there are two domains that are largely “human-only:” **markets** and **the physical world**. Markets, as they are currently constructed, require legal personhood, and interacting with the physical world requires embodiment. In their current form, AI agents have neither of these qualities. We explore here how combining AI with crypto and physical world platforms, specifically robotics, allows future agents to operate in areas that were previously off-limits. 
 
