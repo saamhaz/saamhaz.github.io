@@ -105,7 +105,7 @@ Enabling AI to understand the physical world also has significant implications f
 
 
 ## Final Thoughts
-Every major leap in technology has been marked by the collapse of boundaries: from information and communication to the physical and digital. Today, we are on the brink of another collapse, as AI, crypto, and physical-world platforms converge.6 This time, the combinatorial innovation isn’t just smarter software or better tools, but entire autonomous systems that can participate in markets, coordinate resources, and engage with the physical world.
+Every major leap in technology has been marked by the collapse of boundaries: from information and communication to the physical and digital. Today, we are on the brink of another collapse, as AI, crypto, and physical-world platforms converge.<sup>6</sup> This time, the combinatorial innovation isn’t just smarter software or better tools, but entire autonomous systems that can participate in markets, coordinate resources, and engage with the physical world.
 
 From decentralized agentic economies to embodied AI reshaping physical infrastructure, we’re seeing the outlines of robo economicus. Agents that can autonomously engage with the digital, economic, and physical worlds. Agents that can perceive, decide, and act without human mediation. 
 
