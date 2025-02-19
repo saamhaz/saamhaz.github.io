@@ -121,11 +121,11 @@ The starting pistol has been fired. What happens next will rewrite the economic 
 - Crypto: We define crypto as products built using blockchain-based networks. While censorship resistance is important, some of the more relevant crypto properties are the 1) orchestration layer 2) permissionlessness 3) incentivization and 4) immutability. Examples of crypto products and categories include stablecoins, DePIN, DeAI, Ethereum, Bitcoin, and Solana. 
 - Physical World Platforms: There are a number of parallel threads across fields like robotics (any physically-actuated device), perception, navigation, XR, simulation, world models, and more that can together enable applications that interact with the physical world to be built. The pieces of this platform include sensors, which give read access to the physical world; actuators, which give write access to the physical world;, and XR devices (an interface for the physical world). Examples include drones, legged robots, and autonomous vehicles across air, land, and sea.
 
-<sup>2</sup> [https://www.ri.cmu.edu/pub_files/pub4/kalra_nidhi_2005_2/kalra_nidhi_2005_2.pdf](https://www.ri.cmu.edu/pub_files/pub4/kalra_nidhi_2005_2/kalra_nidhi_2005_2.pdf)
-<sup>3</sup> [https://www.flock.io/](https://www.flock.io/)
-<sup>4</sup> [https://discord.com/invite/xh8vR6JVzM](https://discord.com/invite/xh8vR6JVzM)  
-<sup>5</sup> [https://www.theverge.com/24139142/elon-musk-tesla-aws-distributed-compute-network-ai](https://www.theverge.com/24139142/elon-musk-tesla-aws-distributed-compute-network-ai)    
-<sup>6</sup> [https://openmind.org/report.pdf](https://openmind.org/report.pdf)
+<sup>2</sup> [https://www.ri.cmu.edu/pub_files/pub4/kalra_nidhi_2005_2/kalra_nidhi_2005_2.pdf](https://www.ri.cmu.edu/pub_files/pub4/kalra_nidhi_2005_2/kalra_nidhi_2005_2.pdf)     
+<sup>3</sup>[https://www.flock.io/](https://www.flock.io/)  
+<sup>4</sup>[https://discord.com/invite/xh8vR6JVzM](https://discord.com/invite/xh8vR6JVzM)  
+<sup>5</sup>[https://www.theverge.com/24139142/elon-musk-tesla-aws-distributed-compute-network-ai](https://www.theverge.com/24139142/elon-musk-tesla-aws-distributed-compute-network-ai)    
+<sup>6</sup> [https://openmind.org/report.pdf](https://openmind.org/report.pdf)   
 
 <small>***Disclaimer:***</small><small> *The opinions expressed in this article are for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained on this site constitutes a solicitation, recommendation, endorsement, or offer by Volt Capital or any third-party service provider to buy or sell any securities or other financial instruments in this or in any other jurisdiction. All content on this site is information of a general nature and does not address the circumstances of any particular individual or entity.* </small>
 
