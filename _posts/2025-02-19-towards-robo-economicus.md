@@ -73,6 +73,7 @@ Across artificial intelligence, crypto, and physical world platforms, there are 
 ![The Intersections of Ai, Physical, and Crypto](/assets/img/robo-economicus-frontiers.png)
 
 ### AI x Crypto
+There are a few rising product categories at the intersection of crypto and AI, tackling different layers of the stack.
 
 **_Agentic Networks_**    
 Near the top: agentic networks that give AI agents the ability to participate in financial markets. True AI agents aren’t just chatbots; they are dynamic, make complex decisions, and collaborate across systems. AI agents can’t provide proof of personhood to apply for bank accounts, but they can set up crypto wallets to transact. Crypto also allows them to transact across jurisdictions without currency conversions or traditional banking restrictions. Leveraging crypto for identity solutions to authenticate bots as agents also falls into this scope. These abilities are laying the foundation for decentralized marketplaces where AI agents can operate and earn, along with frameworks for autonomous asset management and decision-making. It’s not just about making AI smarter: it’s about building new kinds of economies. 
