@@ -110,7 +110,7 @@ From decentralized agentic economies to embodied AI reshaping physical infrastru
 
 The starting pistol has been fired. What happens next will rewrite the economic and technological order.
 
-\  
+<br>  
                          
 *Thank you to Oliver Hsu, Nadia Asparouhova, Elad Gil, Leigh Marie Braswell, Balaji Srinivasan, Bayley Wang, Haseeb Qureshi, Albert Wenger, Jordi Hays, Shivani Mitra, Soleio, Karan Malhotra, Jamie Pitts, and Rahul Sonwalkar for feedback and reading drafts.*
 
