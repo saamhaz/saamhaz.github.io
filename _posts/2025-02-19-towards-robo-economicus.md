@@ -25,7 +25,7 @@ The three emerging frontiers in computing today are artificial intelligence, cry
 
 Today, there are two domains that are largely “human-only:” **markets** and **the physical world**. Markets, as they are currently constructed, require legal personhood, and interacting with the physical world requires embodiment. In their current form, AI agents have neither of these qualities. We explore here how combining AI with crypto and physical world platforms, specifically robotics, allows future agents to operate in areas that were previously off-limits. 
 
-## Market Coordination
+### Market Coordination
 
 Markets consist of the mechanisms by which we communicate information, organize resources, and engage in collective decision-making. They are, in a sense, one of the most important tools in the toolkit for social coordination. Being able to perform tasks that require interacting with other agents, people, and services will require participating in markets.
 
