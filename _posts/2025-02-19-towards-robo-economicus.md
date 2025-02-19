@@ -31,9 +31,9 @@ Markets consist of the mechanisms by which we communicate information, organize 
 
 Robots will not operate in isolation. To establish a baseline, there are several different types of multirobot coordination systems:<sup>2</sup>
 
--  _Centralized coordination_ A single central controller plans and assigns tasks to all robots. As systems become more complex, central coordination quickly becomes computationally infeasible.
--  _Behavior-based coordination_ Coordination emerges through predefined robot behaviors, triggered by environmental stimuli. Optimal for real-time, reactive tasks in dynamic environments where simplicity and immediacy are critical, like collision avoidance.
-- _Market-based or auction-based coordination_ Robots act as economic agents in a virtual market, "bidding" for tasks or resources based on their efficiency in performing them. Tasks are allocated based on bids.
+-  _Centralized coordination_ where a single central controller plans and assigns tasks to all robots. As systems become more complex, central coordination quickly becomes computationally infeasible.
+-  _Behavior-based coordination_ where coordination emerges through predefined robot behaviors, triggered by environmental stimuli. Behavior-based coordination is optimal for real time, reactive tasks in dynamic environments where simplicity and immediacy are critical, like collision avoidance. A popular subset of behavior-based coordination is swarm coordination where robots use simple local rules to achieve collective behavior, ex: drones.
+- _Market-based or auction-based coordination_ where robots act as economic agents in a virtual market, "bidding" for tasks or resources based on their efficiency in performing them. Tasks are allocated based on bids.
   
 Robots use different coordination systems depending on their goals. Autonomous robots that have parity with humans will have to engage in complex decision-making in dynamic environments, particularly around resource allocation. The optimal way to do this is by leveraging a market-based system. Market-based coordination is ideal for autonomous decision-making robots because it allows them to independently assess tasks, allocate resources intelligently, and quickly adapt to dynamic environments — all of which would be too slow and computationally expensive at scale via centralized coordination.<sup>2</sup>  
 
