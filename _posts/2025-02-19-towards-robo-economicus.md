@@ -31,9 +31,11 @@ Markets consist of the mechanisms by which we communicate information, organize 
 
 Robots will not operate in isolation. To establish a baseline, there are several different types of multirobot coordination systems:<sup>2</sup>
 
-1. _Centralized coordination_ A single central controller plans and assigns tasks to all robots. As systems become more complex, central coordination quickly becomes computationally infeasible.
-2. _Behavior-based coordination_ Coordination emerges through predefined robot behaviors, triggered by environmental stimuli. Optimal for real-time, reactive tasks in dynamic environments where simplicity and immediacy are critical, like collision avoidance.
-3. _Market-based or auction-based coordination_ Robots act as economic agents in a virtual market, "bidding" for tasks or resources based on their efficiency in performing them. Tasks are allocated based on bids.
+-  _Centralized coordination_ A single central controller plans and assigns tasks to all robots. As systems become more complex, central coordination quickly becomes computationally infeasible.
+-  _Behavior-based coordination_ Coordination emerges through predefined robot behaviors, triggered by environmental stimuli. Optimal for real-time, reactive tasks in dynamic environments where simplicity and immediacy are critical, like collision avoidance.
+- _Market-based or auction-based coordination_ Robots act as economic agents in a virtual market, "bidding" for tasks or resources based on their efficiency in performing them. Tasks are allocated based on bids.
+  
+Robots use different coordination systems depending on their goals. Autonomous robots that have parity with humans will have to engage in complex decision-making in dynamic environments, particularly around resource allocation. The optimal way to do this is by leveraging a market-based system. Market-based coordination is ideal for autonomous decision-making robots because it allows them to independently assess tasks, allocate resources intelligently, and quickly adapt to dynamic environments — all of which would be too slow and computationally expensive at scale via centralized coordination.<sup>2</sup>  
 
 But what will robots in market-based coordination systems transact _with_? They cannot participate in financial markets, nor can they bid on auctions. The way we have constructed markets today requires personhood: AI agents cannot get a bank account, nor can they make payments without human oversight or dependency. Even if Visa or traditional payments processors were to offer a workaround that involved human intervention, it would not be enough. 
 
