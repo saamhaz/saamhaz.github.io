@@ -114,3 +114,17 @@ The starting pistol has been fired. What happens next will rewrite the economic 
 --
 
 *Thank you to Oliver Hsu, Nadia Asparouhova, Elad Gil, Leigh Marie Braswell, Balaji Srinivasan, Bayley Wang, Haseeb Qureshi, Albert Wenger, Jordi Hays, Shivani Mitra, Soleio, Karan Malhotra, Jamie Pitts, and Rahul Sonwalkar for feedback and reading drafts.*
+
+------
+## Appendix
+<sup>1</sup>Three Frontiers
+- AI: Advancements in transformer models and diffusion models across modalities like language, images, and video are rapidly accelerating. These technologies have emerged from their gestation period into products that are being used by consumers, developers, and enterprises. 
+- Crypto: We define crypto as products built using blockchain-based networks. While censorship resistance is important, some of the more relevant crypto properties are the 1) orchestration layer 2) permissionlessness 3) incentivization and 4) immutability. Examples of crypto products and categories include stablecoins, DePIN, DeAI, Ethereum, Bitcoin, and Solana. 
+- Physical World Platforms: There are a number of parallel threads across fields like robotics (any physically-actuated device), perception, navigation, XR, simulation, world models, and more that can together enable applications that interact with the physical world to be built. The pieces of this platform include sensors, which give read access to the physical world; actuators, which give write access to the physical world;, and XR devices (an interface for the physical world). Examples include drones, legged robots, and autonomous vehicles across air, land, and sea.
+
+<sup>2</sup> https://www.ri.cmu.edu/pub_files/pub4/kalra_nidhi_2005_2/kalra_nidhi_2005_2.pdf,
+<sup>3</sup> https://www.flock.io/,
+<sup>4</sup> https://discord.com/invite/xh8vR6JVzM,
+<sup>5</sup> https://www.theverge.com/24139142/elon-musk-tesla-aws-distributed-compute-network-ai,
+<sup>6</sup> https://openmind.org/report.pdf.
+
