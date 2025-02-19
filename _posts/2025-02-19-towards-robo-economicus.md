@@ -45,7 +45,8 @@ Fiat works fine. It's convenient, accepted everywhere, and digital. More importa
 
 But the dynamic changes when we put robots that need to transact and coordinate autonomously into the world. Here, the payment method isn't decided by end-users; it’s decided by developers. 
 
-Developers building and programming robots for multirobot coordination systems will optimize for different things than end-users, such as uptime and immutability. A network of robots that can’t transact and complete tasks due to a payment processor outage isn’t just inconvenient; it’s a disaster. And developers don’t want to have to retool their robots every time a payment processor changes their API or a new anti-fraud practice rolls out. They will want something that is immutable.
+Developers building and programming robots for multirobot coordination systems will optimize for different things than end-users, such as uptime and immutability. A network of robots that can’t transact and complete tasks due to a payment processor outage isn’t just inconvenient; it’s a disaster. And developers don’t want to have to retool their robots every time a payment processor changes their API or a new anti-fraud practice rolls out. They will want something that is immutable.  
+
 Robots won’t solely operate in the US; they’ll be global. Developers will need a system with seamless cross-border capabilities, something crypto uniquely provides. Robots can’t operate efficiently if they’re slowed down by currency conversions or caught up in the local regulations of the world’s 400+ jurisdictions. A permissionless system—one that’s global, consistent, and always on—will win. It’s not about ideology. It’s about what works best.
 
 
