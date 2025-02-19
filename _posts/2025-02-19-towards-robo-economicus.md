@@ -73,7 +73,7 @@ Across artificial intelligence, crypto, and physical world platforms, there are 
 
 ### AI x Crypto
 
-**_Agentic Networks_ **    
+**_Agentic Networks_**    
 Near the top: agentic networks that give AI agents the ability to participate in financial markets. True AI agents aren’t just chatbots; they are dynamic, make complex decisions, and collaborate across systems. AI agents can’t provide proof of personhood to apply for bank accounts, but they can set up crypto wallets to transact. Crypto also allows them to transact across jurisdictions without currency conversions or traditional banking restrictions. Leveraging crypto for identity solutions to authenticate bots as agents also falls into this scope. These abilities are laying the foundation for decentralized marketplaces where AI agents can operate and earn, along with frameworks for autonomous asset management and decision-making. It’s not just about making AI smarter: it’s about building new kinds of economies. 
 
 **_DeAI_**  
@@ -81,7 +81,7 @@ Lower in the stack is DeAI, where we’ll start with decentralized inference. De
 
 We’re seeing early signs of a trend in this direction in general tech as well: in 2024, Elon Musk suggested using the compute power of idle, parked Teslas for inference tasks.<sup>3</sup> His idea is to onboard computers and draw up to a kilowatt from each car’s battery, making use of a compute resource that would otherwise go to waste. We’re also seeing a decentralized approach to traditionally centralized modes of development, like training, finetuning and compute more broadly, for example the Psyche network by Nous. Some companies are building this at scale for enterprise using federated learning on crypto rails.<sup>4</sup>
 
-**_Data Collection and Generation_ **   
+**_Data Collection and Generation_**   
 Quality data, at scale, is a prerequisite for AI model optimization and training. The massive leap in the performance of autoregressive language models in the latter half of 2023 was almost entirely driven not by architectural improvements, but by better data curation strategies. The trillion-dollar language modeling industry is predicated on the existence of a massive dataset, the Common Crawl, which is the output of a decentralized group of users (the entire Internet) since the early 2000s. Since model architectures are open-source and the cost of compute will continue to decrease, what will define the next industry leading AI company will be data sources and data strategy. Crypto platforms designed around incentivizing data collection, labeling, and ensuring data quality through slashing are streamlining collection of this data for AI organizations around the world.<sup>5</sup>
 
 ### Crypto x Physical
@@ -111,8 +111,7 @@ From decentralized agentic economies to embodied AI reshaping physical infrastru
 The starting pistol has been fired. What happens next will rewrite the economic and technological order.
 
 
---
-
+                         
 *Thank you to Oliver Hsu, Nadia Asparouhova, Elad Gil, Leigh Marie Braswell, Balaji Srinivasan, Bayley Wang, Haseeb Qureshi, Albert Wenger, Jordi Hays, Shivani Mitra, Soleio, Karan Malhotra, Jamie Pitts, and Rahul Sonwalkar for feedback and reading drafts.*
 
 ------
@@ -122,9 +121,11 @@ The starting pistol has been fired. What happens next will rewrite the economic 
 - Crypto: We define crypto as products built using blockchain-based networks. While censorship resistance is important, some of the more relevant crypto properties are the 1) orchestration layer 2) permissionlessness 3) incentivization and 4) immutability. Examples of crypto products and categories include stablecoins, DePIN, DeAI, Ethereum, Bitcoin, and Solana. 
 - Physical World Platforms: There are a number of parallel threads across fields like robotics (any physically-actuated device), perception, navigation, XR, simulation, world models, and more that can together enable applications that interact with the physical world to be built. The pieces of this platform include sensors, which give read access to the physical world; actuators, which give write access to the physical world;, and XR devices (an interface for the physical world). Examples include drones, legged robots, and autonomous vehicles across air, land, and sea.
 
-<sup>2</sup> https://www.ri.cmu.edu/pub_files/pub4/kalra_nidhi_2005_2/kalra_nidhi_2005_2.pdf  
-<sup>3</sup> https://www.flock.io/  
-<sup>4</sup> https://discord.com/invite/xh8vR6JVzM    
-<sup>5</sup> https://www.theverge.com/24139142/elon-musk-tesla-aws-distributed-compute-network-ai    
-<sup>6</sup> https://openmind.org/report.pdf   
+<sup>2</sup> [https://www.ri.cmu.edu/pub_files/pub4/kalra_nidhi_2005_2/kalra_nidhi_2005_2.pdf]
+<sup>3</sup> [https://www.flock.io/]
+<sup>4</sup> [https://discord.com/invite/xh8vR6JVzM]    
+<sup>5</sup> [https://www.theverge.com/24139142/elon-musk-tesla-aws-distributed-compute-network-ai]    
+<sup>6</sup> [https://openmind.org/report.pdf]   
+
+<small>***Disclaimer:***</small><small> *The opinions expressed in this article are for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained on this site constitutes a solicitation, recommendation, endorsement, or offer by Volt Capital or any third-party service provider to buy or sell any securities or other financial instruments in this or in any other jurisdiction. All content on this site is information of a general nature and does not address the circumstances of any particular individual or entity.* </small>
 
