@@ -1,9 +1,9 @@
 
-In game theory and economics, *Homo Economicus*, or “economic man,” is the rational agent that selects strategies to maximize profit and utility based on complete information. The term refers to human decision-makers and remains accurate today since the required mindset and ability to act are largely the purview of humans. But that won’t stay true forever.
+In game theory and economics, Homo Economicus, or “economic man,” is the rational agent that selects strategies to maximize profit and utility based on complete information. The term refers to human decision-makers and remains accurate today since the required mindset and ability to act are largely the purview of humans. But that won’t stay true forever.
 
-We suggest that *robo economicus* – AI agents that can participate in markets across both physical and digital worlds – represent an upleveling of the capabilities of AI in the future. Just as engines replaced physical labor, these agents will eventually offload much of the cognitive effort required to navigate markets and systems.
+We suggest that **robo economicus** – AI agents that can participate in markets across both physical and digital worlds – represent an upleveling of the capabilities of AI in the future. Just as engines replaced physical labor, these agents will eventually offload much of the cognitive effort required to navigate markets and systems.
 
-The key shift is **autonomy**: these agents won’t simply follow instructions. They’ll manage resources, negotiate, and make autonomous decisions. 
+The key shift is autonomy: these agents won’t simply follow instructions. They’ll manage resources, negotiate, and make autonomous decisions. 
 
 ## Convergence
 
@@ -11,11 +11,9 @@ When emergent technologies come into the world, they arrive in a primitive state
 
 A pivotal moment occurs when someone – an engineer, founder, or outsider – grasps the latent potential in combining seemingly unrelated technologies. These tech elements then collide to shatter the old order and give rise to a new landscape of applications. 
 
-Over the last two decades, we saw three siloed technologies converge in this way: **cloud computing, mobile, and GPS/geolocation**. 
+Over the last two decades, we saw three siloed technologies converge in this way: cloud computing, mobile, and GPS/geolocation. 
 
-- *Cloud computing* provided the scalability to process real-time requests and implement dynamic pricing.
-- *Smartphones* had intuitive interfaces for messages and push notifications.
-- *GPS* was introduced to smartphones, allowing for dedicated civilian use outside of military applications.
+**Cloud computing** provided the scalability to process real-time requests and implement dynamic pricing. **Smartphones** had intuitive interfaces for messages and push notifications. And, once the first of Block IIR satellites was launched, **GPS** was introduced to smartphones, allowing for dedicated civilian use outside of military applications.
 
 These three domains eventually converged, acting as the starting pistol for the tech era known as the “on-demand economy.” Summoning a car from a phone or delivering dinner from any restaurant, which previously demanded massive infrastructure and real-world coordination, suddenly became possible with just code and APIs.
 
@@ -23,7 +21,7 @@ Each tech epoch is born from and defined by a combinatorial platform shift. What
 
 ## Robo Economicus
 
-The three emerging frontiers in computing today are **artificial intelligence, crypto, and the platforms enabling applications that read-write to the physical world**. An interesting point towards which these three frontiers converge is in giving AI agents the ability to perform in domains that today are largely the purview of humans. In a sense, the convergence of AI, crypto, and physical world platforms allows agents to extend the breadth of their capabilities into new domains.
+The three emerging frontiers in computing today are artificial intelligence, crypto, and the platforms enabling applications that read-write to the physical world. An interesting point towards which these three frontiers converge is in giving AI agents the ability to perform in domains that today are largely the purview of humans. In a sense, the convergence of AI, crypto, and physical world platforms allows agents to extend the breadth of their capabilities into new domains.
 
 Today, there are two domains that are largely “human-only:” **markets** and **the physical world**. Markets, as they are currently constructed, require legal personhood, and interacting with the physical world requires embodiment. In their current form, AI agents have neither of these qualities. We explore here how combining AI with crypto and physical world platforms, specifically robotics, allows future agents to operate in areas that were previously off-limits. 
 
@@ -31,23 +29,21 @@ Today, there are two domains that are largely “human-only:” **markets** and 
 
 Markets consist of the mechanisms by which we communicate information, organize resources, and engage in collective decision-making. They are, in a sense, one of the most important tools in the toolkit for social coordination. Being able to perform tasks that require interacting with other agents, people, and services will require participating in markets.
 
-Robots will not operate in isolation. To establish a baseline, there are several different types of **multirobot coordination systems**:
+Robots will not operate in isolation. To establish a baseline, there are several different types of multirobot coordination systems:
 
 1. **Centralized coordination** – A single central controller plans and assigns tasks to all robots. As systems become more complex, central coordination quickly becomes computationally infeasible.
 2. **Behavior-based coordination** – Coordination emerges through predefined robot behaviors, triggered by environmental stimuli. Optimal for real-time, reactive tasks in dynamic environments where simplicity and immediacy are critical, like collision avoidance.
 3. **Market-based or auction-based coordination** – Robots act as economic agents in a virtual market, "bidding" for tasks or resources based on their efficiency in performing them. Tasks are allocated based on bids.
 
-### Crypto as the Financial Layer for Robots
+But what will robots in market-based coordination systems transact _with_? 
 
-But what will robots in market-based coordination systems transact with? 
+They cannot participate in financial markets, nor can they bid on auctions. The way we have constructed markets today requires personhood: AI agents cannot get a bank account, nor can they make payments without human oversight or dependency. Even if Visa or traditional payments processors were to offer a workaround that involved human intervention, it would not be enough. 
 
-They cannot participate in financial markets, nor can they bid on auctions. The way we have constructed markets today requires **personhood**: AI agents cannot get a bank account, nor can they make payments without human oversight or dependency. Even if Visa or traditional payments processors were to offer a workaround that involved human intervention, it would not be enough. 
+Multirobot coordination systems will need to use cryptocurrencies.
 
-Multirobot coordination systems will need to use **cryptocurrencies**.
+For most people in the Western world, crypto’s properties are seen as nice-to-haves. Properties like immutability, decentralization, censorship resistance, near-perfect uptime, and permissionlessness are intellectually interesting. Assets with these features are “worth having exposure to” but are not critical to everyday transactions. 
 
-For most people in the Western world, crypto’s properties are seen as *nice-to-haves*. Properties like **immutability, decentralization, censorship resistance, near-perfect uptime, and permissionlessness** are intellectually interesting. Assets with these features are “worth having exposure to” but are not critical to everyday transactions. 
-
-But the dynamic changes when we put robots that need to transact and coordinate autonomously into the world. Here, the payment method isn't decided by end-users; **it’s decided by developers**.
+But the dynamic changes when we put robots that need to transact and coordinate autonomously into the world. Here, the payment method isn't decided by end-users; it’s decided by developers.
 
 ## Physical World Actions
 
