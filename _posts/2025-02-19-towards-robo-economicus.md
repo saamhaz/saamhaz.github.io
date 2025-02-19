@@ -67,7 +67,8 @@ If the above seems too speculative, it’s because only two of three frontier co
 
 ## Intersections
 
-Across artificial intelligence, crypto, and physical world platforms, there are areas where these different frontiers are mutually enabling, unlocking applications or domains via their intersections. 
+Across artificial intelligence, crypto, and physical world platforms, there are areas where these different frontiers are mutually enabling, unlocking applications or domains via their intersections.   
+<br>
 
 ![The Intersections of Ai, Physical, and Crypto](/assets/img/robo-economicus-frontiers.png)
 
