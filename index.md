@@ -3,7 +3,7 @@ Soona Amhaz
 **About**  
 * I studied at University of Michigan School of Engineering.  
 * Was hire #20 at <a href="https://techcrunch.com/2022/11/02/alation-bags-123m-at-a-1-7b-valuation-for-its-data-cataloging-software/">Alation</a> during the AI dark ages.  
-* Founded Token Daily and pivoted it to <a href="https://www.notboring.co/p/whats-on-deck-for-on-deck/">On Deck</a>.  
+* Founded Token Daily and pivoted it to <a href="https://www.axios.com/2021/03/25/tech-bootcamps-on-deck">On Deck</a>.  
 * Took my operating chops to venture and started <a href="https://volt.capital/">Volt Capital</a>.   
 
 
