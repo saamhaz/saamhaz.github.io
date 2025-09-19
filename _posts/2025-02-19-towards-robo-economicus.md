@@ -1,7 +1,7 @@
 
 In game theory and economics, Homo Economicus, or “economic man,” is the rational agent that selects strategies to maximize profit and utility based on complete information. The term refers to human decision-makers and remains accurate today since the required mindset and ability to act are largely the purview of humans. But that won’t stay true forever.
 
-We suggest that **robo economicus** – AI agents that can participate in markets across both physical and digital worlds – represent an upleveling of the capabilities of AI in the future. Just as engines replaced physical labor, these agents will eventually offload much of the cognitive effort required to navigate markets and systems.
+We suggest that **robo economicus**, AI agents that can participate in markets across both physical and digital worlds, represent an upleveling of the capabilities of AI in the future. Just as engines replaced physical labor, these agents will eventually offload much of the cognitive effort required to navigate markets and systems.
 
 The key shift is autonomy: these agents won’t simply follow instructions. They’ll manage resources, negotiate, and make autonomous decisions. 
 
@@ -9,7 +9,7 @@ The key shift is autonomy: these agents won’t simply follow instructions. They
 
 When emergent technologies come into the world, they arrive in a primitive state. They're difficult to neatly categorize and only solve a narrow set of problems. Several of these technologies often exist simultaneously, but they remain siloed and limited to specific applications.
 
-A pivotal moment occurs when someone – an engineer, founder, or outsider – grasps the latent potential in combining seemingly unrelated technologies. These tech elements then collide to shatter the old order and give rise to a new landscape of applications. 
+A pivotal moment occurs when someone, an engineer, founder, or outsider, grasps the latent potential in combining seemingly unrelated technologies. These tech elements then collide to shatter the old order and give rise to a new landscape of applications. 
 
 Over the last two decades, we saw three siloed technologies converge in this way: cloud computing, mobile, and GPS/geolocation. 
 
