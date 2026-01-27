@@ -3,13 +3,13 @@ In game theory and economics, Homo Economicus, or “economic man,” is the rat
 
 We suggest that **robo economicus**, AI agents that can participate in markets across both physical and digital worlds, represent an upleveling of the capabilities of AI in the future. Just as engines replaced physical labor, these agents will eventually offload much of the cognitive effort required to navigate markets and systems.
 
-The key shift is autonomy: these agents won’t simply follow instructions. They’ll manage resources, negotiate, and make autonomous decisions. 
+These agents will manage resources and make autonomous decisions as opposed to simply following instructions. 
 
 ## Convergence
 
 When emergent technologies come into the world, they arrive in a primitive state. They're difficult to neatly categorize and only solve a narrow set of problems. Several of these technologies often exist simultaneously, but they remain siloed and limited to specific applications.
 
-A pivotal moment occurs when someone, an engineer, founder, or outsider, grasps the latent potential in combining seemingly unrelated technologies. These tech elements then collide to shatter the old order and give rise to a new landscape of applications. 
+A critical shift happens when someone, an engineer, founder, or industry outsider, grasps the latent potential in combining seemingly unrelated technologies. These tech elements then collide to shatter the old order and give rise to a new landscape of applications. 
 
 Over the last two decades, we saw three siloed technologies converge in this way: cloud computing, mobile, and GPS/geolocation. 
 
@@ -47,9 +47,9 @@ Fiat works fine. It's convenient, accepted everywhere, and digital. More importa
 
 But the dynamic changes when we put robots that need to transact and coordinate autonomously into the world. Here, the payment method isn't decided by end-users; it’s decided by developers. 
 
-Developers building and programming robots for multirobot coordination systems will optimize for different things than end-users, such as uptime and immutability. A network of robots that can’t transact and complete tasks due to a payment processor outage isn’t just inconvenient; it’s a disaster. And developers don’t want to have to retool their robots every time a payment processor changes their API or a new anti-fraud practice rolls out. They will want something that is immutable.  
+Developers building and programming robots for multirobot coordination systems will optimize for different things than end-users, such as uptime and immutability. A network of robots that can’t transact and complete tasks due to a payment processor outage is, for now, an inconvenience but at scale will be an operational disaster. And developers don’t want to have to retool their robots every time a payment processor changes their API or a new anti-fraud practice rolls out. They will want something that is immutable.  
 
-Robots won’t solely operate in the US; they’ll be global. Developers will need a system with seamless cross-border capabilities, something crypto uniquely provides. Robots can’t operate efficiently if they’re slowed down by currency conversions or caught up in the local regulations of the world’s 400+ jurisdictions. A permissionless system that’s global, consistent, and always on will win. It’s not about ideology. It’s about what works best.
+Further, robots will not solely be confined to US borders. As a global technology, developers will need a system with seamless cross-border capabilities, something crypto uniquely provides. Robots can’t operate efficiently if they’re slowed down by currency conversions or caught up in the local regulations of the world’s 400+ jurisdictions. A permissionless system that’s global, consistent, and always on will win. Ultimately what works best will win out over ideology.
 
 
 ### Physical World Actions    
