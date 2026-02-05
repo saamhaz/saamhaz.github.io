@@ -49,7 +49,7 @@ But the dynamic changes when we put robots that need to transact and coordinate 
 
 Developers building and programming robots for multirobot coordination systems will optimize for different things than end-users, such as uptime and immutability. A network of robots that can’t transact and complete tasks due to a payment processor outage is, for now, an inconvenience but at scale will be an operational disaster. And developers don’t want to have to retool their robots every time a payment processor changes their API or a new anti-fraud practice rolls out. They will want something that is immutable.  
 
-Further, robots will not solely be confined to US borders. As a global technology, developers will need a system with seamless cross-border capabilities, something crypto uniquely provides. Robots can’t operate efficiently if they’re slowed down by currency conversions or caught up in the local regulations of the world’s 400+ jurisdictions. A permissionless system that’s global, consistent, and always on will win. Ultimately, what works best will override ideology.
+Further, robots will not solely be confined to US borders. As a global technology, developers will need a system with seamless cross-border capabilities, something crypto uniquely provides. Robots can’t operate efficiently if they’re slowed down by currency conversions or caught up in the local regulations of the world’s 400+ jurisdictions. A permissionless system that’s global, consistent, and always on will win. Ultimately, it's not about popularity, ideology, or familiarity, it's about what works best.
 
 
 ### Physical World Actions    
