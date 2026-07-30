@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Bitcoin’s Price Usually Falls During the Halving
+listed: false
 ---
 
 If you’re reading this you probably know what the bitcoin halving is. Or, at least, that something called the halving will occur in 8 days (to access the most important timer across the economy, [go here](https://www.bitcoinblockhalf.com/)). As part of bitcoin’s issuance, bitcoin miners are rewarded a number of bitcoins per block produced, and in 8 days, that number will drop from 12.5 to 6.25 coins per block. This means roughly $8m in bitcoin daily, gone. Over time, that sum adds up quickly.

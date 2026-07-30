@@ -9,7 +9,8 @@ Soona Amhaz
 
 <p>
 <strong>Writing</strong><br>
-{% for post in site.posts %}
+{% assign listed_posts = site.posts | where_exp: "item", "item.listed != false" %}
+{% for post in listed_posts %}
 <a href="{{ post.url }}">{{ post.title }}</a><br>
 {% endfor %}
 </p>
