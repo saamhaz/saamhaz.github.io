@@ -1,3 +1,8 @@
+---
+layout: post
+title: The Machine Economy
+redirect_from: /2025/02/19/towards-robo-economicus.html
+---
 
 In game theory and economics, Homo Economicus, or “economic man,” is the rational agent that selects strategies to maximize profit and utility based on complete information. The term refers to human decision-makers and remains accurate today since the required mindset and ability to act are largely the purview of humans. But that won’t stay true forever.
 

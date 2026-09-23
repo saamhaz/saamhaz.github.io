@@ -5,3 +5,6 @@ description: |-
   <p>Before starting Volt Capital, Soona co-founded <a href="https://www.beondeck.com/">On Deck</a> and an alum from the University of Michigan School of Engineering. Go blue! </p>
 logo: assets/img/headshot.png
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-redirect-from
+  - jekyll-seo-tag
